@@ -17,7 +17,7 @@ TEST(Polinom, Monom_delete_if_coefficient_equal_zero) {
 }
 
 TEST(Polinom, Can_not_get_monom_from_empty_polinom) {
-}this is
+}
 
 TEST(Polinom, Copied_polinom_is_equal_copiable) {
 }
