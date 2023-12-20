@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/lyosh/Documents/GitHub/mp2-lab5-polinoms/out/build/x64-Debug/polinom/CMakeFiles/polinom.dir/embed.manifest"

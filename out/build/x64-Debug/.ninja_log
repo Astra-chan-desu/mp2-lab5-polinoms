@@ -1,0 +1,12 @@
+# ninja log v5
+27	484	7248036268831213	polinomlib/CMakeFiles/polinomlib.dir/main.cpp.obj	259603f4b0c927fc
+13	497	7248036268921205	listlib/CMakeFiles/listlib.dir/main.cpp.obj	3560371b0e4ab3d4
+497	629	7248036269831203	listlib/listlib.lib	543c6687d05fe187
+20	586	7248036269851202	polinom/CMakeFiles/polinom.dir/TPolinom_Test.cpp.obj	d9823dcba0505047
+486	676	7248036270291193	polinomlib/polinomlib.lib	9b24475c46f611c2
+43	836	7248036272341217	polinomtest/CMakeFiles/polinomtest.dir/test_main.cpp.obj	aa0a69c66926a584
+35	932	7248036273311197	polinomtest/CMakeFiles/polinomtest.dir/TestPolinom.cpp.obj	38f089e4b7576db4
+676	1788	7248036279597500	polinom/polinom.exe	1a5522c069b5f5e4
+5	4460	7248036308567695	gtest/CMakeFiles/gtest.dir/gtest-all.cc.obj	816c5aba2e2cf3f6
+4462	4630	7248036309271041	gtest/gtest.lib	c73d48d9dc4c6773
+4630	5828	7248036319762054	polinomtest/polinomtest.exe	4526446ee24456a8
